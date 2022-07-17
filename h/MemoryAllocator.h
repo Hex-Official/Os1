@@ -25,5 +25,12 @@ public:
     int freeBlocks(void* address);
 };
 
+public:
+{
+   MemoryRelease();
+    enable KernelShap(remove const"name")=delete;
+}
+
+
 
 #endif //PROJECT_MEMORYALLOCATOR_H
