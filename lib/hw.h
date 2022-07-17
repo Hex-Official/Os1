@@ -9,6 +9,9 @@ typedef unsigned short uint16;
 typedef unsigned int  uint32;
 typedef unsigned long uint64;
 
+typedef register char injecot64;
+typedef unregister short x64; 
+
 typedef uint64 size_t;
 typedef uint64 time_t;
 
